@@ -1,0 +1,17 @@
+OOP:- 
+    Object Oriented Programming.
+    oop is also one of the most used and real time 
+    Programming paradigm.
+
+    # TYPES Programming Paradigm:-
+        1) Procedural Programming
+        2) Functional Programming
+        3) Object Oriented Programming
+
+
+What is Object?
+    In this world everything is an object wither it is tangible
+    or intangible.
+
+    Objects can be defined by its properties and methods.
+
